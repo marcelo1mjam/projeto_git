@@ -7,3 +7,8 @@ git config --global user.name "user name"
 git config --global user.email "email"
 git branch xxxxxx
 git 
+
+- ALTEIREI O ARQUIVO
+- usei o comando git add comandos_git para adicionar
+- usei o comando git commit para salvar o arquivo
+- modifiquei e salvei o arquivo no github no repositório que tinha
