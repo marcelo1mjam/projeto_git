@@ -12,3 +12,8 @@ git
 - usei o comando git add comandos_git para adicionar
 - usei o comando git commit para salvar o arquivo
 - modifiquei e salvei o arquivo no github no repositório que tinha
+
+git init
+git branch
+git config
+git checkout
